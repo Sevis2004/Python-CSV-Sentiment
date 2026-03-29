@@ -98,3 +98,12 @@ Install dependencies:
 
 pip install pandas nltk
 
+```
+
+
+
+Run:
+
+
+
+python main.py
